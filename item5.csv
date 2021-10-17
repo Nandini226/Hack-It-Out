@@ -1,0 +1,7 @@
+S.no,Product Id,V_name,V_address,Pincode,City,State,Availability,Chng_room,lattitude,longitude
+1,,,,,,,,,,
+2,5,kyra,"Above Olive Kitchen and Bar, near Qutub Minar, Mehrauli, New Delhi, Delhi 110030",110030,New Delhi,Delhi,Yes,Yes,28.52614981,77.18415789
+3,5,Suvidha Fashion,"Vasant Niwas Building, Railway Station, ground,first 1, 9, Ranade Rd, opp. Dadar, Mumbai, Maharashtra 400028",400028,Mumbai,Maharashtra,Yes,Yes,19.01981246,72.84256534
+4,5,Look's Boutique,"Shilp Building, Chimanlal Girdharlal Rd, Mithakhali, Navrangpura, Ahmedabad, Gujarat 380009",380009,Ahmedabad,Gujrat,No,Yes,23.03305888,72.56051917
+5,5,Lavanya Fashion,"Agrawal Complex, Near Municipal Market, Chimanlal Girdharlal Rd, Azadmini Market, Mithakhali, Navrangpura, Ahmedabad, Gujarat 380009",380009,Ahmedabad,Gujrat,Yes,Yes,23.03503929,72.56094637
+,5,Planet Fashion,"B-28, Sarojini Nagar Market, Sarojini Nagar, New Delhi, Delhi 110001",110001,New Delhi,Delhi,Yes,No,28.5774908,77.19634895

@@ -1,0 +1,7 @@
+S.no,Product Id,V_name,V_address,Pincode,City,State,Availability,Chng_room,lattitude,longitude
+1,Product Id,Vendor/Inventory Name,Vendor/Inventory Address,Vendor/Inventory Pincode,Vendor/Inventory City,Vendor/Inventory State,Availability Status,Changing Room Status,latitude,longitude
+2,4,Follow me,"J-68, Sant Sujan Singh Marg, Main Market, Block J, Rajouri Garden, New Delhi, Delhi 110027",110027,New Delhi,Delhi,Yes,Yes,28.6474832,77.12199756
+3,4,kyra,"Above Olive Kitchen and Bar, near Qutub Minar, Mehrauli, New Delhi, Delhi 110030",110030,New Delhi,Delhi,No,Yes,28.52614981,77.18415789
+4,4,Look's Boutique,"Shilp Building, Chimanlal Girdharlal Rd, Mithakhali, Navrangpura, Ahmedabad, Gujarat 380009",380009,Ahmedabad,Gujrat,Yes,Yes,23.03305888,72.56051917
+5,4,Suvidha Fashion,"Vasant Niwas Building, Railway Station, ground,first 1, 9, Ranade Rd, opp. Dadar, Mumbai, Maharashtra 400028",400028,Mumbai,Maharashtra,Yes,Yes,19.01981246,72.84256534
+,4,Lifestyle Store,"C21 Mall, Scheme No 54, Agra Bombay Rd, Sheetal Ngr, Vijay Nagar, Indore, Madhya Pradesh",452010,Indore,Madhya Pradesh,Yes,Yes,22.7440799,75.89410259

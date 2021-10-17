@@ -1,0 +1,7 @@
+S.no,Product Id,V_name,V_address,Pincode,City,State,Availability,Chng_room,lattitude,longitude
+1,Product Id,Vendor/Inventory Name,Vendor/Inventory Address,Vendor/Inventory Pincode,Vendor/Inventory City,Vendor/Inventory State,Availability Status,Changing Room Status,latitude,longitude
+2,3,Fashion Hub,"MG Road , Indore",452001,Indore,Madhya Pradesh,No,No,22.72005164,75.8631544
+3,3,Lifestyle Store,"C21 Mall, Scheme No 54, Agra Bombay Rd, Sheetal Ngr, Vijay Nagar, Indore, Madhya Pradesh",452010,Indore,Madhya Pradesh,Yes,Yes,22.7440799,75.89410259
+4,3,VESTIDO- Enroute Fashion,"LG-2, MISHIKA TOWER, OPP. SAPNA SANGEETA MALL, Rd, Sarvoday Nagar, Sapna Sangeeta, Indore",452001,Indore,Madhya Pradesh,Yes,Yes,22.69998047,75.86722293
+5,3,Rui Boutique,"Shop no 17, chenoy mention, 162, Warden Rd, next to Precious hair dresser, Mumbai, Maharashtra 400026",400026,Mumbai,Maharashtra,Yes,Yes,18.9650395,72.8046409
+,3,Fashion Terminal,"Bungalow No.- 12, Ground Floor, 220, W Patel Nagar Rd, opp. Metro Pillar No, New Delhi, Delhi",110008,New Delhi,Delhi,Yes,No,28.64984922,77.16193011
